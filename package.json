@@ -1,8 +1,8 @@
 {
   "name": "Roast-Lord",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
-  "author": "Ronaldo Fuzinato <ronaldofuzinato123@gmail.com>",
+  "author": "Ronaldo Fuzinato",
   "description": "Dubtrack Bot",
   "dependencies": {
     "cleverbot-node": "^0.2.5",
